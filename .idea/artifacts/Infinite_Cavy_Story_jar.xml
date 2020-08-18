@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Infinite-Cavy-Story:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Infinite_Cavy_Story_jar</output-path>
+    <root id="archive" name="Infinite-Cavy-Story.jar">
+      <element id="module-output" name="CoderSashke" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/asciiPanel.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/JLayer1.0.1/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
